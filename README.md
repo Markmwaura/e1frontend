@@ -1,2 +1,2 @@
 # e1frontend
-This is a sample website 
+This is sample implementation of the dropbox website
